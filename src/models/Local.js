@@ -20,4 +20,3 @@ const Local = connection.define('locais', {
     },
 })
 
-//coordenadas? qual tipo??
