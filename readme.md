@@ -54,3 +54,6 @@ npm run dev
 
 ## Comandos acima para estruturação inicial da aplicação, modelo dos arquivos foram retirados da API Escola, realizada em aula.
 
+Criar tabela migration 
+npx sequelize-cli migration:generate --name criar_tabela_NOMEESCOLHIDO
+
